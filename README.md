@@ -1,3 +1,7 @@
+- [为 aria2 下载加速，添加这些 trackers 之后， BT、磁力链接下载加速大增](https://www.appinn.com/ara2-add-trackers-list-for-speed-up/) - 小众软件
+
+-----------------------------------------------------------
+
 # trackerslist
 An updated list of public BitTorrent trackers
 ##### Updated 2018-08-15 00:00:02
